@@ -1,7 +1,65 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+    {
+        "key": "datr",
+        "value": "QqYtaASYraA9FNFwiQ4jrkgK",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:31:06.967Z",
+        "lastAccessed": "2025-05-21T10:31:06.967Z"
+    },
+    {
+        "key": "sb",
+        "value": "QqYtaIoTxoqHbXSkW_9_UQh6",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:31:06.967Z",
+        "lastAccessed": "2025-05-21T10:31:06.967Z"
+    },
+    {
+        "key": "wd",
+        "value": "1366x641",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:31:06.967Z",
+        "lastAccessed": "2025-05-21T10:31:06.967Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61569455197077",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:31:06.967Z",
+        "lastAccessed": "2025-05-21T10:31:06.967Z"
+    },
+    {
+        "key": "xs",
+        "value": "34%3AfDpWdbkBcG4xAg%3A2%3A1747823205%3A-1%3A7452",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:31:06.967Z",
+        "lastAccessed": "2025-05-21T10:31:06.967Z"
+    },
+    {
+        "key": "fr",
+        "value": "0jkQOMrk5C9bTMQBe.AWdWDgtSsx3jaougIEdSuGYRCjYhGPcq62w-dWoy4bZGCjv8dUc.BoLaZC..AAA.0.0.BoLapm.AWc7rqAruBo0BSky-jAvZF_qBHU",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:31:06.967Z",
+        "lastAccessed": "2025-05-21T10:31:06.967Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1747823213629%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-21T10:31:06.967Z",
+        "lastAccessed": "2025-05-21T10:31:06.967Z"
+    }
+]
